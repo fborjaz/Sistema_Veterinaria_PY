@@ -1,0 +1,5 @@
+Usuario1:Cod_Usuario = Us0001,Nombre_Usuario = Frank,Password = 1020,Cod_Rol = Admin,Estado = activo
+Usuario2:Cod_Usuario = Us0002,Nombre_Usuario = ZRGadhg,Password = zdfhzdxht,Cod_Rol = xghxzfdgh,Estado = xfgzdh
+Usuario3:Cod_Usuario = Us0003,Nombre_Usuario = Frank,Password = 1020,Cod_Rol = admin,Estado = Activo
+Usuario4:Cod_Usuario = Us0004,Nombre_Usuario = Sexooooo,Password = 5050,Cod_Rol = Admin,Estado = Activo
+Usuario5:Cod_Usuario = Us0005,Nombre_Usuario = Frankaaa,Password = 1501251,Cod_Rol = Admin,Estado = Activo
